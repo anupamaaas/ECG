@@ -1,6 +1,6 @@
 # Inverse Discrete Fourier Transform
 
-The code has been written to prove the accuracy of thr function "fft" in MATLAB. The required ECG signal has been obtained from [Physionet.org](https://archive.physionet.org/cgi-bin/atm/ATM)
+The code has been written to prove the accuracy of the function "fft" in MATLAB. The required ECG signal has been obtained from [Physionet.org](https://archive.physionet.org/cgi-bin/atm/ATM)
 
 Observation:
 * Plot 1 represents the Magnitude of the FFT of the given ECG signal and plot 2 represents the recreated version of the ECG signal provided from its DFT. 
