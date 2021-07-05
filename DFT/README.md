@@ -1,4 +1,6 @@
-The required ECG signal has been obtained from [Physionet.org](https://physionet.org/physiotools/matlab/wfdb-app-matlab/)
+#Discrete Fourier Transform
+
+The required ECG signal has been obtained from [Physionet.org](https://archive.physionet.org/cgi-bin/atm/ATM)
 
 Observations from the output:
 *	Plot 1 represents the given ECG signal and plot 2 represents the Magnitude of the Fast Fourier Transform of the ECG signal provided. 
