@@ -1,4 +1,4 @@
-# Discrete Fourier Transform of ECG
+# Discrete Fourier Transform of ECG ✨
 
 Accurate detection of ECG signals is necessary to determine any cardiovascular abnormalities. The ECG signal consists of P, Q, R, S and T waves and each wave represents a function of the heart: 
 * P-wave -> atrial depolarization 
